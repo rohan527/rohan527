@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Rohan 🍓
 
 <!--
 **rohan527/rohan527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Metrics](https://metrics.lecoq.io/rohan527?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
