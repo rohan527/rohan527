@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://myreadme.vercel.app/api/embed/rohan527?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+![](./profile-3d-contrib/profile-green-animate.svg)
