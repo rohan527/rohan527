@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--
 <img src="https://myreadme.vercel.app/api/embed/rohan527?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<img src="https://myreadme.vercel.app/api/embed/rohan527?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 ![](./profile-3d-contrib/profile-green-animate.svg)
 -->
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan527&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/rohan527?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
